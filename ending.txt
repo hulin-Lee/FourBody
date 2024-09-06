@@ -1,0 +1,10 @@
+Initial seed: 1725624925
+M_IMBH/M_SMBH: 1.00e-03
+Mp: 1.51 solar mass
+Ms: 0.80 solar mass
+a_CM: 0.41 a_{MBHM,i}
+a_b: 8.27 R_sun
+I_CM: 3.39 degree
+tau: 300.00 P_{MBHB,i}
+
+The two stars collide at time t_sim/tau= 1.75

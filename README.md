@@ -1,2 +1,2 @@
 # FourBody
-![[FourBody.png]]
+![Schematic configuration of the four-body system](FourBody.png)
